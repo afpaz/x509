@@ -1,3 +1,9 @@
+## 0.2.4+3
+
+- Update Dart SDK to latest version compatible with Flutter
+- Update dependencies to latest versions
+- Only compatible with `crypto_keys` [version `0.3.0+2` from this fork](https://github.com/afpaz/crypto_keys)
+
 ## 0.2.4+2
 
  - **DOCS**: fix code sample (pull request [#29](https://github.com/appsup-dart/x509/issues/29) from bivens-dev/patch-1). ([14a3a777](https://github.com/appsup-dart/x509/commit/14a3a777afae604e293ee18eb34629c3ef875862))
